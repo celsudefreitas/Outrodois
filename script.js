@@ -1,0 +1,3 @@
+document teste = celso("teste"){
+	
+}
